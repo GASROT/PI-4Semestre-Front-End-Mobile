@@ -68,8 +68,3 @@ Se os tokens do `AsyncStorage` estiverem inconsistentes (401), limpe dados do ap
 - `npm run ios` — inicia emulador iOS (macOS)
 
 ---
-
-Se quiser, posso:
-- adicionar um `env.example` no `front-mobile` para centralizar `API_BASE_URL`,
-- ou atualizar `package.json` com scripts `start:local` que definem `API_BASE_URL` automaticamente.
-Diga qual prefere.
